@@ -222,6 +222,6 @@ The end-to-end workflow illustrates how businesses can detect profit leakage, un
 
 # Author
 
-Data Analytics Project
-Retail Profit Leakage & Growth Optimization
+Yasar Vazi
+Aspiring Data Analyst
 
