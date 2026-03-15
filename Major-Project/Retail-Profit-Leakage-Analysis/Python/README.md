@@ -65,61 +65,61 @@ The analysis includes:
 
 ## Sales by Category
 
-![Sales by Category](visualizations/sales_by_category.png)
+![Sales by Category](Visualizations/sales_by_category.png)
 
 ---
 
 ## Profit by Category
 
-![Profit by Category](visualizations/profit_by_category.png)
+![Profit by Category](Visualizations/profit_by_category.png)
 
 ---
 
 ## Profit by Sub-Category
 
-![Profit by Sub Category](visualizations/profit_by_subcategory.png)
+![Profit by Sub Category](Visualizations/profit_by_subcategory.png)
 
 ---
 
 ## Monthly Sales Trend
 
-![Monthly Sales Trend](visualizations/monthly_sales_trend.png)
+![Monthly Sales Trend](Visualizations/monthly_sales_trend.png)
 
 ---
 
 ## Profit by Region
 
-![Profit by Region](visualizations/profit_by_region.png)
+![Profit by Region](Visualizations/profit_by_region.png)
 
 ---
 
 ## Discount vs Profit
 
-![Discount vs Profit](visualizations/discount_vs_profit.png)
+![Discount vs Profit](Visualizations/discount_vs_profit.png)
 
 ---
 
 ## Correlation Matrix
 
-![Correlation Matrix](visualizations/correlation_matrix.png)
+![Correlation Matrix](Visualizations/correlation_matrix.png)
 
 ---
 
 ## Sales vs Profit Relationship
 
-![Sales vs Profit](visualizations/sales_vs_profit.png)
+![Sales vs Profit](Visualizations/sales_vs_profit.png)
 
 ---
 
 ## Profit Distribution
 
-![Profit Distribution](visualizations/profit_distribution.png)
+![Profit Distribution](Visualizations/profit_distribution.png)
 
 ---
 
 ## Discount Distribution
 
-![Discount Distribution](visualizations/discount_distribution.png)
+![Discount Distribution](Visualizations/discount_distribution.png)
 
 ---
 
