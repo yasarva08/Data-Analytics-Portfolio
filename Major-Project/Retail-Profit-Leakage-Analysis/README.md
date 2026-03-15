@@ -102,7 +102,7 @@ Example analysis: Sales by Category
 
 Example analysis: Profit by Region
 
-![Profit by Region](python/Visualizations/profit_by_region.png)
+![Profit by Region](Python/Visualizations/profit_by_region.png)
 
 Example analysis: Discount vs Profit relationship
 
