@@ -98,7 +98,7 @@ Key tasks performed:
 
 Example analysis: Sales by Category
 
-![Sales by Category](python/Visualizations/sales_by_category.png)
+![Sales by Category](Python/Visualizations/sales_by_category.png)
 
 Example analysis: Profit by Region
 
@@ -106,7 +106,7 @@ Example analysis: Profit by Region
 
 Example analysis: Discount vs Profit relationship
 
-![Discount vs Profit](python/Visualizations/discount_vs_profit.png)
+![Discount vs Profit](Python/Visualizations/discount_vs_profit.png)
 
 These analyses helped identify relationships between discount levels, sales performance, and profitability.
 
