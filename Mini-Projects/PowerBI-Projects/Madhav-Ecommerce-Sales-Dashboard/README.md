@@ -49,7 +49,7 @@ To build an interactive dashboard that provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](images/dashboard-preview.pdf)
 
 ---
 
