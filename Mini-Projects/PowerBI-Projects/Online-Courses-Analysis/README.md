@@ -33,7 +33,7 @@ This project aims to answer:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.pdf)
 
 ---
 
